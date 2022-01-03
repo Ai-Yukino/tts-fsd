@@ -1,6 +1,6 @@
-# `01.md`
+# `01-instructions.md`
 
-![01.png](Images/01.png)
+![01.png](Images/01-instructions.png)
 
 ---
 
